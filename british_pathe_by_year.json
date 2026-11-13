@@ -255771,5 +255771,52 @@
       "url": "https://www.youtube.com/watch?v=3yFPfs7UiZs",
       "thumbnail": "https://i.ytimg.com/vi/3yFPfs7UiZs/hqdefault.jpg"
     }
+    ],
+
+  "2012": [
+    {
+      "id": "IgPRI6-8Efw",
+      "year": 2012,
+      "title": "John Lennon's Imagine @ London 2012 Olympics - Children's Choir Performance | Music Monday",
+      "cleanTitle": "John Lennon's Imagine — Children's Choir Performance (London 2012 Closing Ceremony)",
+      "duration": 197,
+      "url": "https://www.youtube.com/watch?v=IgPRI6-8Efw",
+      "thumbnail": "https://i.ytimg.com/vi/IgPRI6-8Efw/hqdefault.jpg",
+      "channel": "Olympic Games",
+      "honorary": true
+    },
+    {
+      "id": "xKFOFpzEALo",
+      "year": 2012,
+      "title": "Pink Floyd (Eclipse) - London Olympics Opening Ceremony 2012",
+      "cleanTitle": "Pink Floyd (Eclipse) — London Olympics Opening Ceremony",
+      "duration": 220,
+      "url": "https://www.youtube.com/watch?v=xKFOFpzEALo",
+      "thumbnail": "https://i.ytimg.com/vi/xKFOFpzEALo/hqdefault.jpg",
+      "channel": "Breno Dalpian",
+      "honorary": true
+    },
+    {
+      "id": "P8BHH3i3ycQ",
+      "year": 2012,
+      "title": "Lighting the Olympic Cauldron - Soundtrack: Eclipse (Pink Floyd) and The End (Sir Paul McCartney)",
+      "cleanTitle": "Lighting the Olympic Cauldron — Eclipse (Pink Floyd) & The End (Sir Paul McCartney)",
+      "duration": 303,
+      "url": "https://www.youtube.com/watch?v=P8BHH3i3ycQ",
+      "thumbnail": "https://i.ytimg.com/vi/P8BHH3i3ycQ/hqdefault.jpg",
+      "channel": "Raiaquatro",
+      "honorary": true
+    },
+    {
+      "id": "4As0e4de-rI",
+      "year": 2012,
+      "title": "The Complete London 2012 Opening Ceremony | London 2012 Olympic Games",
+      "cleanTitle": "The Complete London 2012 Opening Ceremony (Isles of Wonder)",
+      "duration": 14390,
+      "url": "https://www.youtube.com/watch?v=4As0e4de-rI",
+      "thumbnail": "https://i.ytimg.com/vi/4As0e4de-rI/hqdefault.jpg",
+      "channel": "Olympic Games",
+      "honorary": true
+    }
   ]
 }
